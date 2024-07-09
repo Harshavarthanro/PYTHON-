@@ -1,10 +1,20 @@
+
+
 # PYTHON-
 Create a program that stimulates rolling a dice
       ///        ///      ///      ///        ///
+
+ 
+ 
+ 
+ 
  import random
 
 def roll_dice():
     return random.randint(1, 6)
+
+
+
 def main():
     print("Welcome to the Dice Rolling Simulator!")
     while True:
